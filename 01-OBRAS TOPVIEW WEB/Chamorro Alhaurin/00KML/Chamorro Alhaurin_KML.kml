@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5545">
+        <Folder id="5546">
+            <Style id="5550">
+                <IconStyle id="5551">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="5552">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5556">
+                <IconStyle id="5557">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="5558">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>ntrip.bax</name>
+            <Placemark id="5548">
+                <name>A1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 362645.623 | Y 4059060.163 | Z 52.039&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="5549">
+                    <when>2026-10-18T12:29:39.630203</when>
+                </TimeStamp>
+                <styleUrl>#5550</styleUrl>
+                <Point id="5547">
+                    <coordinates>-4.536997453000121,36.66724528566443,52.03890659223363</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="5554">
+                <name>A2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 362625.185 | Y 4059055.751 | Z 51.867&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="5555">
+                    <when>2026-10-18T12:29:39.630203</when>
+                </TimeStamp>
+                <styleUrl>#5556</styleUrl>
+                <Point id="5553">
+                    <coordinates>-4.537225289700293,36.66720257735691,51.86672282573435</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
