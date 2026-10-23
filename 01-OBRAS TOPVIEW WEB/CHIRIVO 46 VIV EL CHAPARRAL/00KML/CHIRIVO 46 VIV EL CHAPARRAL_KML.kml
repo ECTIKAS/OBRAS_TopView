@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6013">
+        <Folder id="6014">
+            <Style id="6018">
+                <IconStyle id="6019">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6020">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6024">
+                <IconStyle id="6025">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6026">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6030">
+                <IconStyle id="6031">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6032">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6036">
+                <IconStyle id="6037">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6038">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6042">
+                <IconStyle id="6043">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6044">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6048">
+                <IconStyle id="6049">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6050">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6054">
+                <IconStyle id="6055">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6056">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6060">
+                <IconStyle id="6061">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6062">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6066">
+                <IconStyle id="6067">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6068">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6072">
+                <IconStyle id="6073">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6074">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6078">
+                <IconStyle id="6079">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6080">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6084">
+                <IconStyle id="6085">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6086">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6090">
+                <IconStyle id="6091">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6092">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6096">
+                <IconStyle id="6097">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6098">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6102">
+                <IconStyle id="6103">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6104">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6108">
+                <IconStyle id="6109">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6110">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6114">
+                <IconStyle id="6115">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6116">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6120">
+                <IconStyle id="6121">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6122">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6126">
+                <IconStyle id="6127">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6128">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6132">
+                <IconStyle id="6133">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6134">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6138">
+                <IconStyle id="6139">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6140">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6144">
+                <IconStyle id="6145">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6146">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6150">
+                <IconStyle id="6151">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6152">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6156">
+                <IconStyle id="6157">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6158">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6162">
+                <IconStyle id="6163">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6164">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6168">
+                <IconStyle id="6169">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6170">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6174">
+                <IconStyle id="6175">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6176">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6180">
+                <IconStyle id="6181">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6182">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6186">
+                <IconStyle id="6187">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6188">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6192">
+                <IconStyle id="6193">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6194">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6198">
+                <IconStyle id="6199">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6200">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6204">
+                <IconStyle id="6205">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6206">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6210">
+                <IconStyle id="6211">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6212">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6216">
+                <IconStyle id="6217">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6218">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6222">
+                <IconStyle id="6223">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6224">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6228">
+                <IconStyle id="6229">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6230">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6234">
+                <IconStyle id="6235">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6236">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6240">
+                <IconStyle id="6241">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6242">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6246">
+                <IconStyle id="6247">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6248">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6252">
+                <IconStyle id="6253">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6254">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6258">
+                <IconStyle id="6259">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6260">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6264">
+                <IconStyle id="6265">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6266">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6270">
+                <IconStyle id="6271">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6272">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6276">
+                <IconStyle id="6277">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6278">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6282">
+                <IconStyle id="6283">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6284">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6288">
+                <IconStyle id="6289">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6290">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>BASES V2 (1).bax</name>
+            <Placemark id="6016">
+                <name>B2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351263.110 | Y 4042016.603 | Z 52.751&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6017">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6018</styleUrl>
+                <Point id="6015">
+                    <coordinates>-4.661025882000511,36.51194991064511,52.751181146316576</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6022">
+                <name>B1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351256.625 | Y 4042047.328 | Z 54.233&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6023">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6024</styleUrl>
+                <Point id="6021">
+                    <coordinates>-4.661104190000511,36.51222577564529,54.233124760844</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6028">
+                <name>B3</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351270.299 | Y 4041992.831 | Z 51.662&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6029">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6030</styleUrl>
+                <Point id="6027">
+                    <coordinates>-4.660941042667177,36.511736812644976,51.66214910549002</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6034">
+                <name>C1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351217.504 | Y 4041999.526 | Z 38.798&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6035">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6036</styleUrl>
+                <Point id="6033">
+                    <coordinates>-4.661531698500809,36.51178893397617,38.797705242707984</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6040">
+                <name>C2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351207.256 | Y 4042016.772 | Z 38.529&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6041">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6042</styleUrl>
+                <Point id="6039">
+                    <coordinates>-4.661649427334141,36.51194274247636,38.52898041213597</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6046">
+                <name>C3</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351201.267 | Y 4042035.530 | Z 39.183&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6047">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6048</styleUrl>
+                <Point id="6045">
+                    <coordinates>-4.661719901667476,36.51211085014317,39.183186040374515</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6052">
+                <name>C5</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351187.037 | Y 4041989.012 | Z 36.155&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6053">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6054</styleUrl>
+                <Point id="6051">
+                    <coordinates>-4.66186979170081,36.51168944367633,36.15537461736842</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6058">
+                <name>C4</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351192.955 | Y 4042006.935 | Z 37.065&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6059">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6060</styleUrl>
+                <Point id="6057">
+                    <coordinates>-4.661807178967478,36.5118518779431,37.06504470665713</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6064">
+                <name>C1E</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351217.507 | Y 4041999.526 | Z 38.809&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6065">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6066</styleUrl>
+                <Point id="6063">
+                    <coordinates>-4.661531665167062,36.51178892682991,38.80903817826355</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6070">
+                <name>C2E</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351207.253 | Y 4042016.766 | Z 38.531&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6071">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6072</styleUrl>
+                <Point id="6069">
+                    <coordinates>-4.661649463006138,36.51194269553864,38.5311506212351</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6076">
+                <name>C3E</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351201.256 | Y 4042035.529 | Z 39.171&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6077">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6078</styleUrl>
+                <Point id="6075">
+                    <coordinates>-4.661720016992452,36.512110836795564,39.170549190883285</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6082">
+                <name>A1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351323.230 | Y 4041907.559 | Z 41.894&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6083">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6084</styleUrl>
+                <Point id="6081">
+                    <coordinates>-4.660333746090115,36.51097662125749,41.894483411935</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6088">
+                <name>A2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351333.036 | Y 4041907.565 | Z 41.199&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6089">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6090</styleUrl>
+                <Point id="6087">
+                    <coordinates>-4.660224284758435,36.51097819887715,41.19869442226512</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6094">
+                <name>A3</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351354.632 | Y 4041905.419 | Z 40.770&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6095">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6096</styleUrl>
+                <Point id="6093">
+                    <coordinates>-4.659982793045169,36.51096221045191,40.76959828973287</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6100">
+                <name>A4</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351364.885 | Y 4041904.298 | Z 41.085&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6101">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6102</styleUrl>
+                <Point id="6099">
+                    <coordinates>-4.659868120894219,36.510953705174494,41.08497316377962</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6106">
+                <name>A5</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351379.608 | Y 4041902.219 | Z 41.140&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6107">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6108</styleUrl>
+                <Point id="6105">
+                    <coordinates>-4.659703359936515,36.51093726003277,41.14000330472119</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6112">
+                <name>C6</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351223.913 | Y 4042021.732 | Z 49.295&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6113">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6114</styleUrl>
+                <Point id="6111">
+                    <coordinates>-4.661464435768433,36.51199002982601,49.29514416682753</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6118">
+                <name>C8</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351223.568 | Y 4042028.910 | Z 49.869&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6119">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6120</styleUrl>
+                <Point id="6117">
+                    <coordinates>-4.661469672199932,36.51205466098524,49.86863908715058</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6124">
+                <name>C7</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351222.956 | Y 4042028.883 | Z 49.878&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6125">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6126</styleUrl>
+                <Point id="6123">
+                    <coordinates>-4.661476496342833,36.51205432652637,49.87818594795689</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6130">
+                <name>C9</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351220.929 | Y 4042042.780 | Z 50.332&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6131">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6132</styleUrl>
+                <Point id="6129">
+                    <coordinates>-4.661501800268728,36.51217924325156,50.33203669126807</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6136">
+                <name>C10</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351221.572 | Y 4042044.374 | Z 50.398&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6137">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6138</styleUrl>
+                <Point id="6135">
+                    <coordinates>-4.6614949273673725,36.512193701242545,50.39782557323546</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6142">
+                <name>C11</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351219.688 | Y 4042051.112 | Z 50.445&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6143">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6144</styleUrl>
+                <Point id="6141">
+                    <coordinates>-4.6615172593973035,36.51225412785172,50.445004641621594</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6148">
+                <name>C12</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351217.142 | Y 4042053.707 | Z 50.413&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6149">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6150</styleUrl>
+                <Point id="6147">
+                    <coordinates>-4.661546184270101,36.51227711487279,50.41282032738137</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6154">
+                <name>C4E</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351192.947 | Y 4042006.917 | Z 37.068&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6155">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6156</styleUrl>
+                <Point id="6153">
+                    <coordinates>-4.661807266627665,36.51185171706701,37.067607323977</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6160">
+                <name>C20</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351316.505 | Y 4041948.683 | Z 49.845&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6161">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6162</styleUrl>
+                <Point id="6159">
+                    <coordinates>-4.660416733667477,36.511346156641146,49.845281480764406</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6166">
+                <name>C21</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351324.169 | Y 4041947.548 | Z 49.629&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6167">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6168</styleUrl>
+                <Point id="6165">
+                    <coordinates>-4.660330966500808,36.511337121641134,49.62850582916129</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6172">
+                <name>C22</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351333.273 | Y 4041945.204 | Z 49.380&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6173">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6174</styleUrl>
+                <Point id="6171">
+                    <coordinates>-4.660228886000809,36.511317408641155,49.379862621602086</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6178">
+                <name>C23</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351351.703 | Y 4041944.458 | Z 48.632&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6179">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6180</styleUrl>
+                <Point id="6177">
+                    <coordinates>-4.6600230023341425,36.51131355847456,48.632222427857194</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6184">
+                <name>C23(E)</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351351.705 | Y 4041944.460 | Z 48.625&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6185">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6186</styleUrl>
+                <Point id="6183">
+                    <coordinates>-4.660022978023756,36.511313571982164,48.6249848351649</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6190">
+                <name>C22(E)</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351333.270 | Y 4041945.207 | Z 49.382&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6191">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6192</styleUrl>
+                <Point id="6189">
+                    <coordinates>-4.660228912273103,36.511317443365826,49.382296767954074</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6196">
+                <name>C21(E)</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351324.168 | Y 4041947.551 | Z 49.626&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6197">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6198</styleUrl>
+                <Point id="6195">
+                    <coordinates>-4.660330975477163,36.511337147227174,49.62560837995586</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6202">
+                <name>C20(E)</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351316.500 | Y 4041948.683 | Z 49.852&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6203">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6204</styleUrl>
+                <Point id="6201">
+                    <coordinates>-4.660416792388987,36.511346161068175,49.85217200457127</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6208">
+                <name>5009</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351407.904 | Y 4041887.909 | Z 40.839&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6209">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6210</styleUrl>
+                <Point id="6207">
+                    <coordinates>-4.659384739954837,36.51081269801026,40.839289018578484</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6214">
+                <name>5010</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351426.914 | Y 4041946.538 | Z 51.641&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6215">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6216</styleUrl>
+                <Point id="6213">
+                    <coordinates>-4.659183802050043,36.511343983920355,51.641392328685455</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6220">
+                <name>C24</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351212.617 | Y 4041960.056 | Z 40.496&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6221">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6222</styleUrl>
+                <Point id="6219">
+                    <coordinates>-4.661578651167476,36.511432488342244,40.49580353801021</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6226">
+                <name>C25</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351287.855 | Y 4041963.266 | Z 50.552&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6227">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6228</styleUrl>
+                <Point id="6225">
+                    <coordinates>-4.660739370667477,36.51147311634121,50.551705963362004</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6232">
+                <name>C25(E)</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351287.858 | Y 4041963.266 | Z 50.569&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6233">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6234</styleUrl>
+                <Point id="6231">
+                    <coordinates>-4.660739341932796,36.51147312109799,50.568930065797915</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6238">
+                <name>D02</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351287.360 | Y 4041939.454 | Z 49.356&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6239">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6240</styleUrl>
+                <Point id="6237">
+                    <coordinates>-4.6607403167082575,36.51125846540801,49.356357523486466</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6244">
+                <name>D01</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351276.336 | Y 4041940.695 | Z 47.721&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6245">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6246</styleUrl>
+                <Point id="6243">
+                    <coordinates>-4.660863608918256,36.51126792810726,47.72094262033692</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6250">
+                <name>D03</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351286.480 | Y 4041955.860 | Z 51.589&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6251">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6252</styleUrl>
+                <Point id="6249">
+                    <coordinates>-4.660753299911697,36.511406162147516,51.58887817937117</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6256">
+                <name>D04</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351287.572 | Y 4041957.827 | Z 52.137&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6257">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6258</styleUrl>
+                <Point id="6255">
+                    <coordinates>-4.660741482723946,36.51142405764997,52.13722813494443</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6262">
+                <name>D05</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351255.367 | Y 4042030.269 | Z 56.772&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6263">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6264</styleUrl>
+                <Point id="6261">
+                    <coordinates>-4.661114946609693,36.51207185221341,56.772316700336845</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6268">
+                <name>D06</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351252.234 | Y 4041989.035 | Z 48.848&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6269">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6270</styleUrl>
+                <Point id="6267">
+                    <coordinates>-4.661141978426317,36.511699795333364,48.8479607616417</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6274">
+                <name>D07</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351247.151 | Y 4041981.280 | Z 44.915&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6275">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6276</styleUrl>
+                <Point id="6273">
+                    <coordinates>-4.661197229863752,36.5116291236211,44.91507809728681</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6280">
+                <name>D08</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351254.034 | Y 4041983.389 | Z 45.252&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6281">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6282</styleUrl>
+                <Point id="6279">
+                    <coordinates>-4.661120804538148,36.51164919019635,45.252178116128704</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6286">
+                <name>D09</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351259.020 | Y 4041984.888 | Z 45.424&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6287">
+                    <when>2026-10-18T12:29:40.394455</when>
+                </TimeStamp>
+                <styleUrl>#6288</styleUrl>
+                <Point id="6285">
+                    <coordinates>-4.6610654305439345,36.511663480208185,45.4241611366136</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6291">
+            <Style id="6295">
+                <IconStyle id="6296">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6297">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6301">
+                <IconStyle id="6302">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6303">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6307">
+                <IconStyle id="6308">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6309">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6313">
+                <IconStyle id="6314">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6315">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6319">
+                <IconStyle id="6320">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6321">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6325">
+                <IconStyle id="6326">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6327">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6331">
+                <IconStyle id="6332">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6333">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6337">
+                <IconStyle id="6338">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6339">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6343">
+                <IconStyle id="6344">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6345">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6349">
+                <IconStyle id="6350">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6351">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6355">
+                <IconStyle id="6356">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6357">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6361">
+                <IconStyle id="6362">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6363">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6367">
+                <IconStyle id="6368">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6369">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6373">
+                <IconStyle id="6374">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6375">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6379">
+                <IconStyle id="6380">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6381">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6385">
+                <IconStyle id="6386">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6387">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6391">
+                <IconStyle id="6392">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6393">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6397">
+                <IconStyle id="6398">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6399">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6403">
+                <IconStyle id="6404">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6405">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6409">
+                <IconStyle id="6410">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6411">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6415">
+                <IconStyle id="6416">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6417">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6421">
+                <IconStyle id="6422">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6423">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6427">
+                <IconStyle id="6428">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6429">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6433">
+                <IconStyle id="6434">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6435">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6439">
+                <IconStyle id="6440">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6441">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6445">
+                <IconStyle id="6446">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6447">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6451">
+                <IconStyle id="6452">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6453">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6457">
+                <IconStyle id="6458">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6459">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6463">
+                <IconStyle id="6464">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6465">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6469">
+                <IconStyle id="6470">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6471">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6475">
+                <IconStyle id="6476">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6477">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6481">
+                <IconStyle id="6482">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="6483">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>DianasV1.bax</name>
+            <Placemark id="6293">
+                <name>5001</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351336.366 | Y 4041960.756 | Z 51.508&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6294">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6295</styleUrl>
+                <Point id="6292">
+                    <coordinates>-4.660197349120854,36.51145804170819,51.50775021190953</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6299">
+                <name>5002</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351364.254 | Y 4041943.262 | Z 50.496&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6300">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6301</styleUrl>
+                <Point id="6298">
+                    <coordinates>-4.659882658254595,36.511304725673675,50.49639076554047</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6305">
+                <name>5008</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351398.122 | Y 4041912.917 | Z 47.869&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6306">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6307</styleUrl>
+                <Point id="6304">
+                    <coordinates>-4.659498746967066,36.511036539361875,47.86943448442802</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6311">
+                <name>5007</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351401.359 | Y 4041919.266 | Z 50.833&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6312">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6313</styleUrl>
+                <Point id="6310">
+                    <coordinates>-4.65946383271407,36.51109425427,50.83348008453533</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6317">
+                <name>5006</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351402.274 | Y 4041923.523 | Z 50.844&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6318">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6319</styleUrl>
+                <Point id="6316">
+                    <coordinates>-4.6594544395016495,36.511132757694114,50.84415255542879</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6323">
+                <name>5009</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351407.904 | Y 4041887.909 | Z 40.839&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6324">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6325</styleUrl>
+                <Point id="6322">
+                    <coordinates>-4.659384736095258,36.51081270084841,40.839</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6329">
+                <name>5010</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351426.914 | Y 4041946.538 | Z 51.641&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6330">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6331</styleUrl>
+                <Point id="6328">
+                    <coordinates>-4.659183804298665,36.51134398166576,51.641</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6335">
+                <name>5004</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351396.750 | Y 4041947.882 | Z 48.966&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6336">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6337</styleUrl>
+                <Point id="6334">
+                    <coordinates>-4.6595207941984995,36.51135140544913,48.966344162732916</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6341">
+                <name>5005</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351396.798 | Y 4041947.849 | Z 48.970&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6342">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6343</styleUrl>
+                <Point id="6340">
+                    <coordinates>-4.65952024907037,36.511351120463736,48.96966936357253</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6347">
+                <name>5003</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351364.307 | Y 4041943.237 | Z 50.492&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6348">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6349</styleUrl>
+                <Point id="6346">
+                    <coordinates>-4.659882059582198,36.511304506512325,50.49153853495257</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6353">
+                <name>E2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351290.813 | Y 4041940.870 | Z 46.888&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6354">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6355</styleUrl>
+                <Point id="6352">
+                    <coordinates>-4.660702036613162,36.511271756006444,46.88751410976758</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6359">
+                <name>E3</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351341.946 | Y 4041933.550 | Z 48.879&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6360">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6361</styleUrl>
+                <Point id="6358">
+                    <coordinates>-4.660129823048667,36.5112137417628,48.878657271482844</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6365">
+                <name>E4</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351341.270 | Y 4041927.201 | Z 49.052&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6366">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6367</styleUrl>
+                <Point id="6364">
+                    <coordinates>-4.660136142018205,36.511156419787554,49.052407630236495</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6371">
+                <name>E5</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351340.634 | Y 4041921.370 | Z 48.917&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6372">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6373</styleUrl>
+                <Point id="6370">
+                    <coordinates>-4.660142120729727,36.51110378088416,48.91748734563886</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6377">
+                <name>E6</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351360.325 | Y 4041909.743 | Z 43.436&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6378">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6379</styleUrl>
+                <Point id="6376">
+                    <coordinates>-4.659920066191221,36.51100206500205,43.43636495884248</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6383">
+                <name>E7</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351360.068 | Y 4041908.745 | Z 43.355&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6384">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6385</styleUrl>
+                <Point id="6382">
+                    <coordinates>-4.659922748558197,36.51099303361083,43.3549810099057</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6389">
+                <name>5011</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351252.139 | Y 4042031.855 | Z 52.299&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6390">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6391</styleUrl>
+                <Point id="6388">
+                    <coordinates>-4.661151289151717,36.51208564552505,52.298550029491004</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6395">
+                <name>5012</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351262.320 | Y 4042017.831 | Z 55.219&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6396">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6397</styleUrl>
+                <Point id="6394">
+                    <coordinates>-4.6610349391493076,36.51196084876082,55.218676745570654</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6401">
+                <name>5013</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351264.659 | Y 4042003.739 | Z 53.657&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6402">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6403</styleUrl>
+                <Point id="6400">
+                    <coordinates>-4.661006110108343,36.51183422664161,53.657115468729074</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6407">
+                <name>5014</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351216.832 | Y 4041975.529 | Z 48.393&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6408">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6409</styleUrl>
+                <Point id="6406">
+                    <coordinates>-4.661534575973645,36.511572578421145,48.393189503983535</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6413">
+                <name>5015</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351218.037 | Y 4041994.901 | Z 48.439&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6414">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6415</styleUrl>
+                <Point id="6412">
+                    <coordinates>-4.6615248598495915,36.51174733349306,48.438684776368405</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6419">
+                <name>5016</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351240.708 | Y 4042043.939 | Z 56.774&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6420">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6421</styleUrl>
+                <Point id="6418">
+                    <coordinates>-4.6612812206801735,36.51219276554252,56.774344077644095</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6425">
+                <name>5017</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351272.725 | Y 4041977.337 | Z 52.620&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6426">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6427</styleUrl>
+                <Point id="6424">
+                    <coordinates>-4.660910985640942,36.51159756675477,52.619708935414906</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6431">
+                <name>5018</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351277.934 | Y 4041968.994 | Z 52.306&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6432">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6433</styleUrl>
+                <Point id="6430">
+                    <coordinates>-4.660851227527724,36.511523188371825,52.305645403218236</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6437">
+                <name>5019</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351295.549 | Y 4041958.519 | Z 52.631&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6438">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6439</styleUrl>
+                <Point id="6436">
+                    <coordinates>-4.660652569133832,36.51143153691336,52.63111279143505</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6443">
+                <name>5021</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351223.635 | Y 4041971.011 | Z 40.941&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6444">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6445</styleUrl>
+                <Point id="6442">
+                    <coordinates>-4.66145776144436,36.51153292120011,40.940548378697365</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6449">
+                <name>5022</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351174.757 | Y 4041939.485 | Z 39.369&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6450">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6451</styleUrl>
+                <Point id="6448">
+                    <coordinates>-4.661997331325762,36.51124122742633,39.36910630314774</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6455">
+                <name>5011B</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351252.129 | Y 4042031.863 | Z 52.297&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6456">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6457</styleUrl>
+                <Point id="6454">
+                    <coordinates>-4.661151403090899,36.51208571408298,52.297382733304175</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6461">
+                <name>5012B</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351262.313 | Y 4042017.845 | Z 55.217&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6462">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6463</styleUrl>
+                <Point id="6460">
+                    <coordinates>-4.66103501698353,36.51196097755738,55.2169574601067</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6467">
+                <name>5013B</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351264.621 | Y 4042003.747 | Z 53.656&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6468">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6469</styleUrl>
+                <Point id="6466">
+                    <coordinates>-4.661006539246769,36.51183429457054,53.65579005557735</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6473">
+                <name>5015B</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351218.038 | Y 4041994.914 | Z 48.438&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6474">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6475</styleUrl>
+                <Point id="6472">
+                    <coordinates>-4.661524853553545,36.51174745451795,48.43772885585873</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="6479">
+                <name>5016B</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 351240.705 | Y 4042043.957 | Z 56.772&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="6480">
+                    <when>2026-10-18T12:29:40.484489</when>
+                </TimeStamp>
+                <styleUrl>#6481</styleUrl>
+                <Point id="6478">
+                    <coordinates>-4.661281264319975,36.512192921678,56.77227661597105</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
