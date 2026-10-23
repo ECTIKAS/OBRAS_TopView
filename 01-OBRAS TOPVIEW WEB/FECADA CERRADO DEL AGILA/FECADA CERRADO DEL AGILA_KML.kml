@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10767">
+        <Folder id="10768">
+            <Style id="10772">
+                <IconStyle id="10773">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="10774">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>bases.bax</name>
+            <Placemark id="10770">
+                <name>B1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 350812.077 | Y 4043892.471 | Z 113.360&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="10771">
+                    <when>2026-10-18T12:29:45.192868</when>
+                </TimeStamp>
+                <styleUrl>#10772</styleUrl>
+                <Point id="10769">
+                    <coordinates>-4.666423439600218,36.52878375479516,113.36020680014283</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
