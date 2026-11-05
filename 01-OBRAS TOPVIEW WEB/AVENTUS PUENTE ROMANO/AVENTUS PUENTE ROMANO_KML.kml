@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1381">
+        <Folder id="1382">
+            <Style id="1386">
+                <IconStyle id="1387">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="1388">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="1392">
+                <IconStyle id="1393">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="1394">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>01 BASES.bax</name>
+            <Placemark id="1384">
+                <name>A1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 327565.320 | Y 4042448.604 | Z 55.439&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="1385">
+                    <when>2026-11-05T21:26:54.242916</when>
+                </TimeStamp>
+                <styleUrl>#1386</styleUrl>
+                <Point id="1383">
+                    <coordinates>-4.925642561842422,36.51186459747048,55.439</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="1390">
+                <name>A2</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 327579.338 | Y 4042446.011 | Z 55.539&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="1391">
+                    <when>2026-11-05T21:26:54.242916</when>
+                </TimeStamp>
+                <styleUrl>#1392</styleUrl>
+                <Point id="1389">
+                    <coordinates>-4.925485518630871,36.51184376089241,55.539</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="1395">
+            <Style id="1399">
+                <IconStyle id="1400">
+                    <color>ffe500ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="1401">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>NTRIP.bax</name>
+            <Placemark id="1397">
+                <name>A3</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 327551.370 | Y 4042451.261 | Z 55.220&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="1398">
+                    <when>2026-11-05T21:26:54.268151</when>
+                </TimeStamp>
+                <styleUrl>#1399</styleUrl>
+                <Point id="1396">
+                    <coordinates>-4.925798862000615,36.51188601848144,55.22028903435495</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
