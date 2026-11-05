@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22969">
+        <Folder id="22970">
+            <Style id="22974">
+                <IconStyle id="22975">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="22976">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>ntrip.bax</name>
+            <Placemark id="22972">
+                <name>A1</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 320626.930 | Y 4045514.493 | Z 294.772&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="22973">
+                    <when>2026-11-05T21:27:08.775275</when>
+                </TimeStamp>
+                <styleUrl>#22974</styleUrl>
+                <Point id="22971">
+                    <coordinates>-5.003796686000815,36.53821140848688,294.7716473640115</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
