@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24277">
+        <Folder id="24278">
+            <Style id="24282">
+                <IconStyle id="24283">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="24284">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="24288">
+                <IconStyle id="24289">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="24290">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="24294">
+                <IconStyle id="24295">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                    <heading>0</heading>
+                    <Icon id="24296">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>BASES.bax</name>
+            <Placemark id="24280">
+                <name>5001</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 380188.440 | Y 4064350.852 | Z 61.523&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="24281">
+                    <when>2026-11-05T21:27:09.336775</when>
+                </TimeStamp>
+                <styleUrl>#24282</styleUrl>
+                <Point id="24279">
+                    <coordinates>-4.341573650660984,36.717298695860904,61.523</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="24286">
+                <name>5002</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 380194.553 | Y 4064348.089 | Z 62.047&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="24287">
+                    <when>2026-11-05T21:27:09.336775</when>
+                </TimeStamp>
+                <styleUrl>#24288</styleUrl>
+                <Point id="24285">
+                    <coordinates>-4.341504785134008,36.71727456601432,62.047</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="24292">
+                <name>5003</name>
+                <description>&lt;b&gt;UTM:&lt;/b&gt; X 380233.276 | Y 4064316.555 | Z 59.865&lt;br/&gt;&lt;div style='text-align:center;'&gt;S/F&lt;/div&gt;</description>
+                <TimeStamp id="24293">
+                    <when>2026-11-05T21:27:09.336775</when>
+                </TimeStamp>
+                <styleUrl>#24294</styleUrl>
+                <Point id="24291">
+                    <coordinates>-4.341066356659932,36.716995254823715,59.865</coordinates>
+                    <altitudeMode>absolute</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
